@@ -26,3 +26,4 @@ else
 #*************#
   cmake .. -DCMAKE_VERBOSE_MAKEFILE=ON && make
 fi
+# test travis
